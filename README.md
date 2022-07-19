@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeJCoupland.
 - 👀 I’m interested in turbomachinery, CFD and green energy.
-- 📒 I’m currently studdying for my masters at the University of Cambridge.
+- 📒 I’m a recent graduate in aerothermal engineering. 
 - 💞️ I’m looking to collaborate on fun engineering projects!
 - 📫 How to reach me at linkedIn: https://www.linkedin.com/in/george-coupland-7a5980195/
 
